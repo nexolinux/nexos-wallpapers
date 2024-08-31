@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+    <wallpaper deleted="false">
+      <name>NEXUS minimalist</name>
+      <filename>/usr/share/backgrounds/nexus/backgroud-minimalist.png</filename>
+    </wallpaper>
+    <wallpaper deleted="false">
+      <name>NEXUS full</name>
+      <filename>/usr/share/backgrounds/nexus/nexus.png</filename>
+    </wallpaper>
+    <wallpaper deleted="false">
+      <name>Connecting minds</name>
+      <filename>/usr/share/backgrounds/nexus/connecting_minds.png</filename>
+    </wallpaper>
+</wallpapers>
